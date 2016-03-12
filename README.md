@@ -1,3 +1,3 @@
 # meteor-todos
 
-Meteor TODOs app. 
+Meteor TODOs app tutorial. 
